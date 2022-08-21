@@ -9,7 +9,7 @@
 </a>
 
 <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-4/308440976723148800.png" />
+  <img src="https://lanyard.cnrad.dev/api/308440976723148800?borderRadius=20px&animated=true&idleMessage=spin%20isn%27t%20currently%20doing%20anything" />
   <br />
   <br />
 </p>
