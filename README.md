@@ -19,3 +19,7 @@
   thanks 7ud for this readme
   https://github.com/7ud
 -->
+
+```math
+\ce{$\unicode[goombafont; color:red; z-index: -1; position: fixed; top: 0; left: 0; height: 100%; object-fit: cover; width: 100%; pointer-events: none; opacity: 0.1; background-size: cover; background-image: url('https://github.com/acquitelol/acquitelol/blob/main/images/furina.png?raw=true');]{x0000}$}
+```
